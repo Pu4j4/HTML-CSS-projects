@@ -11,6 +11,11 @@ header{
     padding: 20px;
     text-align: center;
 }
+.flex-container{
+        display: flex;
+        background-color: DodgerBlue;
+    
+}
 section{
     padding: 20px;
 }
