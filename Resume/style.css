@@ -24,9 +24,18 @@ section{
     padding: 20px;
     border-radius: 10px;
 }
+h2{
+    background-color: rgb(109, 201, 201);
+    padding: 2px;
+    border-radius: 5px;
+}
+p{
+    padding: 10px;
+}
 ul {
     list-style: none;
     padding-left: 0;
+    padding: 10px;
   }
   .skills-list {
     display: flex;
@@ -34,9 +43,9 @@ ul {
     flex-wrap: wrap;
   }
   .skills-list li {
-    background: #a08989;
+    background: #667992;
     color: aliceblue;
-    padding: 6px 12px;
+    padding: 5px 12px;
     border-radius: 5px;
   }
   footer {
